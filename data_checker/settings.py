@@ -61,6 +61,10 @@ EXTENSIONS = {
 }
 
 ENABLE_ON_CHANGE_ENABLED = True
+ENABLE_ON_CHANGE_DESTINATION = "user@example.com"
+
+# Mail Settings
+MAIL_PORT = 8025
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html

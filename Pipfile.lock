@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "27b46f9691758eb8cedd92062b333974c3fd056e3ca10d8713fec112203cb105"
+            "sha256": "3af3724c811925cf90d3cd8434ec2a240bb27c866ac9cbc478d8d4889d04063e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -489,6 +489,30 @@
         }
     },
     "develop": {
+        "aiosmtpd": {
+            "hashes": [
+                "sha256:314f70b74cb8474882cef396b186fbfad8660c7b52be5c1937f3c31df14232a4",
+                "sha256:aa891d010d2097274189078c6ce2a59a167f3fb2e974e028b572a61e92e1549c"
+            ],
+            "index": "pypi",
+            "version": "==1.4.2"
+        },
+        "atpublic": {
+            "hashes": [
+                "sha256:3deaa4aed146bf4adf5a8e0f9e4f0096774169a7157621753aa408d9a180b8b5",
+                "sha256:bb072b50e6484490404e5cb4034e782aaa339fdd6ac36434e53c10791aef18bf"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==3.0.1"
+        },
+        "attrs": {
+            "hashes": [
+                "sha256:2d27e3784d7a565d36ab851fe94887c5eccd6a463168875832a1be79c82828b4",
+                "sha256:626ba8234211db98e869df76230a137c4c40a12d72445c45d5f5b716f076e2fd"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
+            "version": "==21.4.0"
+        },
         "black": {
             "hashes": [
                 "sha256:06f9d8846f2340dfac80ceb20200ea5d1b3f181dd0556b47af4e8e0b24fa0a6b",
